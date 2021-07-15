@@ -1,18 +1,25 @@
-# Curso profesional de Git y GitHub
+# Curso de programación orientado a objetos.
 
-_En este proyecto se aprendio a utilizar la herramienta Git, para qué sirve, cómo usarlo, cómo mejorar nuestra productividad y cómo sacarle el mayor provecho._
+_En este proyecto se aprendio a acerca de las bases y paradigmas de la programación orientada a objetos._
 
 ## Introducción 🚀
 
-_Git es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. En su lugar GitHub es una forma para alojar proyectos utilizando el sistema de control de versiones Git. Un sistema de control de versiones como Git nos ayuda a guardar el historial de cambios y crecimiento de los archivos de nuestro proyecto_
+_La Programación orientada a objetos viene de una filosofía o forma de pensar que es la orientación a objetos y esto surge a partir de los problemas que necesitamos plasmar en código._
+_Esto analizar un problema en forma de objetos para después llevarlo a código._
 
-_Se elaboro este pequeño proyecto en html5 como evidencia de lo aprendido e implementado en el curso_
+_Se elaboro este pequeño proyecto simulando una aplicación de servicio de transporte (Uber) como evidencia de lo aprendido. Se implementaron los siguientes lenguajes: ._
 
-## Herramientas utilizadas en este proyecto 🛠️
+* *Java*
+* *Javascript*
+* *PHP*
+* *Python*
 
-* [Github](https://github.com)
-* [Gitbash](https://git-scm.com/downloads)
+## Herramientas y tecnologias utilizadas en este proyecto 🛠️
+
 * [Visual studio code](https://code.visualstudio.com/download)
+* [Java extension pack](https://code.visualstudio.com/docs/languages/java)
+* [Python](https://www.python.org)
+* [XAMPP](https://www.apachefriends.org/es/download.html)
 
 
 ## Autor ✒️
@@ -20,6 +27,5 @@ Hecho con ❤️ por [Justine Briceño Cortez](https://github.com/Jazztineb) �
 
 ## Expresiones de gratitud 🎁
 
-* Agradezco a la academia Accenture por haberme brindado la oportunidad de participar en su 
-* programa de becario y brindarme todas las herramientas para llevarlo a cabo 🤓.
+* Agradezco a la academia Accenture por haberme brindado la oportunidad de participar en su programa de becario y brindarme todas las herramientas para llevarlo a cabo 🤓.
 ---
